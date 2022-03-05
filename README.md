@@ -2,4 +2,8 @@
 2.  MyToken name was chosen to represent our beloved country malaysia :)
 3.  Of course the symbol will be MY
 4.  intial supply is 1000 ether but can be changed to fit your need
-5.  just need to create your own env file with your parameters (private key, node host provider, etc)
+5.  To start, prerequisites will be:
+      - python
+      - ganache-cli
+      - brownie
+      - will also need to create your own env file with your parameters (private key, node host provider, etc)
